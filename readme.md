@@ -1,0 +1,1 @@
+Esse foi o segundo exercicio que eu fiz sobre: criar uma página que mostre uma lista de itens vinda de uma API pública usando fetch.
